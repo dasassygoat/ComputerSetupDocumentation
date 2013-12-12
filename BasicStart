@@ -1,0 +1,36 @@
+Getting Started:
+
+http://getbootstrap.com/ - Great Starting Point, especially if you are not a designer.
+http://modernizr.com/ - Must Have, resets various browsers and provides a good place to start creating own css rules
+http://jquery.com/ - Sort of Self Explanitory, great javascript framework
+
+Tools:
+
+http://sass-lang.com/ - I have really only began to touch the full power of Sass but I am excited by the nesting and 
+the variables especially.
+
+Platforms:
+
+http://www.mamp.info/en/index.html - Best LAMP Stack tool for Mac that I have used. The pro version is worth the money
+to support it.
+http://www.apachefriends.org/en/xampp.html - Best LAMP Stack tool for windows that I have found.
+http://www.ubuntu.com/desktop/developers - I really like the ease of Ubuntu.
+
+Git:
+
+http://msysgit.github.io/ - Git client for windows
+http://git-scm.com/ - Git Website
+http://try.github.io/l - Git training
+
+Editors:
+
+http://www.jetbrains.com/phpstorm/ -I am really loveing this editor the more I dig into PHP. Some of the best things 
+are the watches that you can set up on files like scss, as well as Git integration.
+http://www.sublimetext.com/ - I think that his is the defacto codeing editor in the field.
+
+Training:
+
+http://www.teamtreehouse.com - great site, lots of good videos. Areas that it is week is PHP, some of the more recent 
+JS frameworks like Angular.js.
+http://www.lynda.com/ - has some great videos on PHP, and other Microsoft Technologies, and cloud platform
+
