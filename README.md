@@ -1,4 +1,4 @@
-goodlinks
+Goodlists
 =========
 
-Just a list of good links that I have found. Also helps me if I want to reinstall from scratch which I do more than I probably should.
+Just a list of links that I have made. Added benefit of it helps me when I reinstall from scratch which I do more than I probably should.
