@@ -7,7 +7,9 @@ Resharper
 GitHub Desktop - https://desktop.github.com/
 
 Visual Studio Addins:
-
+WebEssentials
+Github
+nUnit
 
 Tools:
 Node - Install first since the others use it to install.
