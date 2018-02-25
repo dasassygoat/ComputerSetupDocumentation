@@ -19,7 +19,7 @@ to support it.
 * http://msysgit.github.io/ - Git client for windows
 * http://git-scm.com/ - Git Website
 * http://try.github.io/l - Git training
-* GitKraken - Pretty cool so far.
+* https://www.gitkraken.com/ - GitKraken - Pretty cool so far.
 
 ## Editors:
 
