@@ -6,6 +6,7 @@
 
 ## Linux Installs:
 * Oh My Zsh - http://ohmyz.sh/
+* Terminator - https://gnometerminator.blogspot.com/p/introduction.html
 
 ## Languages:
 * Asp.net Core - https://www.microsoft.com/net
