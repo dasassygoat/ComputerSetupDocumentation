@@ -47,6 +47,7 @@ to support it.
 ## C#:
 
 * http://csharp.2000things.com/index/
+* http://github.com/FaithLife/FaithLifeUtility - Real helpful ultity library.
 
 ## JavaScript Languages:
 
