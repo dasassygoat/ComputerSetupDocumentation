@@ -38,6 +38,7 @@ to support it.
 * https://github.com/raspberry-sharp/raspberry-sharp-io - 
 * http://elinux.org/RPi_BCM2835_GPIOs#GPIO17 - RPi BCM2835 GPIOs
 * https://learn.adafruit.com/category/learn-raspberry-pi - Adafruit Learning System
+* https://www.kickstarter.com/projects/413243358/mugsy-the-open-source-robotic-coffee-maker/comments - Mugsy
 
 ## Visual Studio:
 
