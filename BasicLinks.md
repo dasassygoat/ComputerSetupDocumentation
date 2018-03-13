@@ -2,15 +2,12 @@
 
 ## Getting Started:
 
-* http://getbootstrap.com/ - Great Starting Point, especially if you are not a designer.
-* http://modernizr.com/ - Must Have, resets various browsers and provides a good place to start creating own css rules
-* http://jquery.com/ - Sort of Self Explanitory, great javascript framework
+
 
 ## Platforms:
 
 * http://www.mamp.info/en/index.html - Best LAMP Stack tool for Mac that I have used. The pro version is worth the money
 to support it.
-* http://www.apachefriends.org/en/xampp.html - Best LAMP Stack tool for Windows that I have found.
 * http://www.ubuntu.com/desktop/developers - I really like the ease of Ubuntu
 
 # Containers
@@ -53,9 +50,13 @@ to support it.
 * http://csharp.2000things.com/index/
 * http://github.com/FaithLife/FaithLifeUtility - Real helpful ultity library.
 
-## JavaScript Languages:
+## JavaScript / CSS Libraries:
 
 * http://www.typescriptlang.org/Tutorial
+* https://github.com/facebook/create-react-app - React Starter
+* http://getbootstrap.com/ - Great Starting Point, especially if you are not a designer.
+* http://modernizr.com/ - Must Have, resets various browsers and provides a good place to start creating own css rules
+* http://jquery.com/ - Sort of Self Explanitory, great javascript framework
 
 ## News:
 
@@ -63,4 +64,5 @@ to support it.
 
 ## Other:
 
-* https://swiftlang.ng.bluemix.net/#/repl - Swift REPL
+* https://handmadehero.org/ - Handmade Hero Game development from scratch.
+* https://swapi.co/ - Star Wars API
