@@ -7,6 +7,12 @@
 ## Linux Installs:
 * Oh My Zsh - http://ohmyz.sh/
 * Terminator - https://gnometerminator.blogspot.com/p/introduction.html
+* Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
+
+## Mac Installs:
+* Dash is the best. - https://kapeli.com/dash
+* Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
+* Seems like most popular Mac Terminal Emulator - https://iterm2.com/
 
 ## Languages:
 * Asp.net Core - https://www.microsoft.com/net
@@ -27,11 +33,14 @@
 
 ## Tools:
 * Node - Install first since the others use it to install.
+* Mock up screen ui - https://balsamiq.com/
 
 ## Misc:
 * Google Chrome
 * Firefox Developer Edition
 * DropBox
+* Flux
+
 
 ## Fun Stuff:
 * VirtualBox - https://www.virtualbox.org/wiki/Downloads
