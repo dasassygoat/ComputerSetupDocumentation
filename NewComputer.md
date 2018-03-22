@@ -30,6 +30,8 @@
 ## Nuget:
 * nUnit
 * Moq
+* Marten
+* Autofac
 
 ## Tools:
 * Node - Install first since the others use it to install.
