@@ -42,8 +42,10 @@
 * Firefox Developer Edition
 * DropBox
 * Flux
+* AmpliTube4
 
 
 ## Fun Stuff:
 * VirtualBox - https://www.virtualbox.org/wiki/Downloads
+* VmWare Player 
 
