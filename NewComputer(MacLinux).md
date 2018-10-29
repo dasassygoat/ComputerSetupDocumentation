@@ -1,4 +1,4 @@
-# New Computer Setup:
+# New Computer Setup for Mac or Linux:
 
 ## Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
