@@ -5,6 +5,7 @@ Windows Features:
   Containers
   Hyper-V
   IIS (optional)
+  Edge
 
 Windows Store:
   Ubuntu
@@ -21,6 +22,7 @@ Chocolatey Installs:
   Docker?
   VNC Viewer?
   Python 3?
+  git?
   
 Applications: (Can be installed through Chocolatey but prefer to not)
   Visual Studio 2017 (Self updates)
