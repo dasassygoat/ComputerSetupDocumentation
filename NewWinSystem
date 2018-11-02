@@ -23,6 +23,7 @@ Chocolatey Installs:
   VNC Viewer?
   Python 3?
   git?
+  dnspy
   
 Applications: (Can be installed through Chocolatey but prefer to not)
   Visual Studio 2017 (Self updates)
