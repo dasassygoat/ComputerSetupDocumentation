@@ -36,5 +36,5 @@ Applications: (Can be installed through Chocolatey but prefer to not)
   Amazon Music (Self updates)
   SharePoint Designer 2013
   MS Office (Self updates)
-  NordVPN
+  ---NordVPN
   Logos - https://www.logos.com/get-started
