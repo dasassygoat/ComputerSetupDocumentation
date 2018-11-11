@@ -15,6 +15,7 @@ Windows Utilities:
   Node
   
 Chocolatey Installs:
+  Fiddler
   WinDirStat
   Putty
   golang
