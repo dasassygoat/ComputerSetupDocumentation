@@ -1,4 +1,4 @@
-#Setup of Windows System:
+# Setup of Windows System:
 
 **Windows Features:**
 - Linux Subsystem for Windows
