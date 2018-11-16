@@ -13,7 +13,7 @@ to support it.
 * https://www.microsoft.com/en-us/sql-server/sql-server-downloads - Microsoft SQL Server for Win. and Linux
 
 ## Containers
-* https://kubernetes.io/ - Kubernetes
+* https://kubernetes.io/ - Kubernetes _I admit I havent gotten around to using it yet_
 
 ## Git:
 
@@ -56,7 +56,7 @@ to support it.
 
 * http://www.typescriptlang.org/Tutorial
 * https://github.com/facebook/create-react-app - React Starter
-* http://getbootstrap.com/ - Great Starting Point, especially if you are not a designer.
+* http://getbootstrap.com/ - Was a great Starting Point, especially if you are not a designer but there is a little learning curve with latest version.
 * http://modernizr.com/ - Must Have, resets various browsers and provides a good place to start creating own css rules
 * http://jquery.com/ - Sort of Self Explanitory, great javascript framework
 
