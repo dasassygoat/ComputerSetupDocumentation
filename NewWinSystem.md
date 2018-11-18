@@ -11,6 +11,7 @@
 **Windows Utilities:**
 - Powershell 5+
 - Chocolatey
+- Firefox
     
 **Chocolatey Installs:**
 - Node
