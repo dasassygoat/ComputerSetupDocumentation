@@ -11,7 +11,7 @@
 **Windows Utilities:**
 - Powershell 5+
 - Chocolatey
-- Firefox
+- Firefox _Only installed due to issue with dev tools on Edge disapearing_
     
 **Chocolatey Installs:**
 - Node
@@ -23,11 +23,13 @@
 - VNC Viewer?
 - Python 3?
 - git?
-- dnspy - _current issue with the check sums differences_
+- dnspy - _current issue with the check sums validating so its not installed
   
 **Applications:** _(Can be installed through Chocolatey but prefer to not)_
 - Visual Studio 2017 (Self updates)
-- Web Essentials - Add File / Open CMD Prompt Here
+  - Cloud Explorer
+  - Github Extension for VS (Have to check and see if any part is being used)
+  - Web Essentials - Add New File / Open CMD Line Here / File Nesting
 - Visual Studio Code (Self updates)
   - c#
   - Docker
@@ -35,6 +37,6 @@
   - Go
   - Material Icon Theme
 - Sublime Text (Self updates)  
-- Amazon Music (Self updates)
+- Amazon Music (Self updates) _May not install in the future and just use the web interface_
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
