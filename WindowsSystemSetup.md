@@ -37,6 +37,5 @@
   - Go
   - Material Icon Theme
 - Sublime Text (Self updates)  
-- Amazon Music (Self updates) _May not install in the future and just use the web interface_
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
