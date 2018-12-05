@@ -18,18 +18,19 @@
 - Fiddler
 - WinDirStat
 - Putty
-- Linqpad 5?
+- Linqpad 5
 - Docker For Windows
-- VNC Viewer?
-- Python 3?
-- git?
-- dnspy - _current issue with the check sums validating so its not installed
+- VNC Viewer
+- Python 3
+- git
+- dnspy
   
 **Applications:** _(Can be installed through Chocolatey but prefer to not)_
 - Visual Studio 2017 (Self updates)
   - Cloud Explorer
   - Github Extension for VS (Have to check and see if any part is being used)
   - Web Essentials - Add New File / Open CMD Line Here / File Nesting
+- Visual Studio 2019 Preview 1
 - Visual Studio Code (Self updates)
   - c#
   - Docker
