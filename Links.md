@@ -34,6 +34,8 @@ to support it.
 * https://app.pluralsight.com/library/ - Has lots of videos, they are increasing the content weekly.
 * https://borntolearn.mslearn.net/knowitproveit/p/home - Microsoft Born To Learn
 * http://udemy.com - The courses can be hit or miss, however the good ones are really very good.
+* https://www.codewars.com/ - Very cool, exercises to help you quickly think of solutions
+  * <img src="https://www.codewars.com/users/journeyman3282/badges/micro" alt="Codewars badge" />
 
 ## Raspberry PI:
 
