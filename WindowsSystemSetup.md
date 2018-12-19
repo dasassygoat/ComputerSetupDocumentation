@@ -25,7 +25,7 @@
 - git
 - dnspy
   
-**Applications:** _(Can be installed through Chocolatey but prefer to not)_
+**Applications:** _(Some can be installed through Chocolatey but prefer to not)_
 - Visual Studio 2017 (Self updates)
   - Cloud Explorer
   - Github Extension for VS (Have to check and see if any part is being used)
@@ -40,3 +40,4 @@
 - Sublime Text (Self updates) - _Thinking in the future will still install but wont add to context menu_
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
+- Intel Extreme Tuning Utility - _Not officially supported but does reduce heat which increases performance_
