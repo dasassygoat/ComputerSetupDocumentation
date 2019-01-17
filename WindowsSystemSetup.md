@@ -37,6 +37,7 @@
   - File Utils
   - Go
   - Material Icon Theme
+- Postman
 - Sublime Text (Self updates) - _Thinking in the future will still install but wont add to context menu_
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
