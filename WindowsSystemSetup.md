@@ -4,6 +4,7 @@
 - Linux Subsystem for Windows
 - Windows Containers
 - Edge
+- Hyper V
 
 **Windows Store:**
 - Ubuntu
@@ -24,6 +25,8 @@
 - Python 3
 - git
 - dnspy
+- Nswag Studio
+- Quicklook
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
 - Visual Studio 2017 (Self updates)
@@ -37,6 +40,7 @@
   - File Utils
   - Go
   - Material Icon Theme
+  - IOT Workbench
 - Postman
 - Devart Code Compare
 - Sublime Text (Self updates) - _Thinking in the future will still install but wont add to context menu_
