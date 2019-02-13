@@ -44,7 +44,7 @@
 - Postman
 - Devart Code Compare
 - Azure Storage Explorer
-- ~~Sublime Text (Self updates) - _Thinking in the future will still install but wont add to context menu_
+- ~~Sublime Text (Self updates)~~ - _Thinking in the future will still install but wont add to context menu_
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
-- ~~Intel Extreme Tuning Utility - _Not officially supported but does reduce heat which increases performance_
+- ~~Intel Extreme Tuning Utility~~- _Not officially supported but does reduce heat which increases performance_
