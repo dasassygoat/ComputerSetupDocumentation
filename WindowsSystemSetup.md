@@ -33,7 +33,7 @@
   - Cloud Explorer
   - Github Extension for VS (Have to check and see if any part is being used)
   - Web Essentials - Add New File / Open CMD Line Here / File Nesting
-- Visual Studio 2019 Preview 1
+- Visual Studio 2019 Preview 2
 - Visual Studio Code (Self updates)
   - c#
   - Docker
