@@ -28,7 +28,7 @@
 - dnspy
 - Nswag Studio
 - Quicklook
-- Postman _choco install postman _
+- Postman _choco install postman_
 - gpg4win _choco install gpg4win_
 - Golang _choco install golang_
 - Arduino _choco install arduino _
