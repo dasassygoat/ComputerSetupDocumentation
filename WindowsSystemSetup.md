@@ -12,7 +12,8 @@
 **Windows Utilities:**
 - Powershell 5+
 - Chocolatey
-- Firefox _Only installed due to issue with dev tools on Edge disapearing_
+- Firefox
+- Grammerly
     
 **Chocolatey Installs:**
 - Node
@@ -27,13 +28,21 @@
 - dnspy
 - Nswag Studio
 - Quicklook
+- Postman _choco install postman _
+- gpg4win _choco install gpg4win_
+- Golang _choco install golang_
+- Arduino _choco install arduino _
+- **Check for potential future install integration**
+ - Rust ?
+
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
+- Nord is preferred theme
 - Visual Studio 2017 (Self updates)
   - Cloud Explorer
   - Github Extension for VS (Have to check and see if any part is being used)
   - Web Essentials - Add New File / Open CMD Line Here / File Nesting
-- Visual Studio 2019 Preview 2
+- Visual Studio 2019 RC 4
 - Visual Studio Code (Self updates)
   - c#
   - Docker
@@ -41,10 +50,13 @@
   - Go
   - Material Icon Theme
   - IOT Workbench
-- Postman
+- IntelliJ Community
 - Devart Code Compare
 - Azure Storage Explorer
-- ~~Sublime Text (Self updates)~~ - _Thinking in the future will still install but wont add to context menu_
+- Azure Batch Explorer
+- DigiCertUtil.exe
+- Kindle
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
+- ~~Sublime Text (Self updates)~~ - _Thinking in the future will still install but wont add to context menu_
 - ~~Intel Extreme Tuning Utility~~- _Not officially supported but does reduce heat which increases performance_
