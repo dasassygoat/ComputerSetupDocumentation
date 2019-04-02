@@ -31,9 +31,9 @@
 - Postman _choco install postman_
 - gpg4win _choco install gpg4win_
 - Golang _choco install golang_
-- Arduino _choco install arduino _
+- Arduino _choco install arduino_
 - **Check for potential future install integration**
- - Rust ?
+ - Rust
 
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
@@ -58,5 +58,3 @@
 - Kindle
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
-- ~~Sublime Text (Self updates)~~ - _Thinking in the future will still install but wont add to context menu_
-- ~~Intel Extreme Tuning Utility~~- _Not officially supported but does reduce heat which increases performance_
