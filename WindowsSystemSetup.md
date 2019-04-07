@@ -42,7 +42,7 @@
   - Cloud Explorer
   - Github Extension for VS (Have to check and see if any part is being used)
   - Web Essentials - Add New File / Open CMD Line Here / File Nesting
-- Visual Studio 2019 RC 4
+- Visual Studio 2019 _Will probably replace 2017 at some point_
 - Visual Studio Code (Self updates)
   - c#
   - Docker
