@@ -50,7 +50,6 @@
   - Go
   - Material Icon Theme
   - IOT Workbench
-- IntelliJ Community
 - Devart Code Compare
 - Azure Storage Explorer
 - Azure Batch Explorer
@@ -58,3 +57,12 @@
 - Kindle
 - MS Office (Self updates)
 - Logos - https://www.logos.com/get-started
+
+**Unreal:**
+- Unreal Engine _Don't install studio_
+- Unreal Tournament
+
+**JetBrains:**
+- Resharper Ultimate
+- GoLand
+- Rider
