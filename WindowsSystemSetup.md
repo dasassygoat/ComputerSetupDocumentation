@@ -29,7 +29,7 @@
 - Golang _choco install golang -y_
 - Arduino _choco install arduino -y_
 
-choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y
+_choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
@@ -55,8 +55,10 @@ choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y
   - Remote SSH
   - Remote - SSH:Editing Configuration Files
   - Remote WSL
-  - Remote Development\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions_
-  - _user
+  - Remote Development
+  - _user\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions_
+
+
 - Matlab - DL
 - MS Office 
 - Wolfram Mathamatica 10 - DL
