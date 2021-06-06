@@ -5,7 +5,7 @@
 - Microsoft Print to PDF
 - Virtual Machine Platform
 - Windows Hypervisor Platform
-- Linux Subsystem for Windows _reinstalling_
+- Linux Subsystem for Windows https://docs.microsoft.com/en-us/windows/wsl/install-win10
 - Edge
 
 **Windows Store:**
@@ -39,19 +39,28 @@ choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y
 - Anaconda - https://www.anaconda.com/products/individual
 - Docker - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
-- Visual Studio 2019 
-- Visual Studio Code (Self updates)
+- Visual Studio 2019 - https://visualstudio.microsoft.com/
+- Visual Studio Code
+  - Arduino
+  - Azure IoT Tools
   - c#
   - Docker
   - File Utils
   - Go
+  - GitKraken Boards
   - Material Icon Theme
-  - IOT Workbench
-- Matlab
-- MS Office (Self updates)
-- Wolfram Mathamatica 10
+  - Jupyter
+  - Python
+  - Remote Containers
+  - Remote SSH
+  - Remote - SSH:Editing Configuration Files
+  - Remote WSL
+  - Remote Development\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions_
+  - _user
+- Matlab - DL
+- MS Office 
+- Wolfram Mathamatica 10 - DL
 - Logos - https://www.logos.com/get-started
-- Blender **2.79**
 - Unity Hub - https://store.unity.com/download?ref=personal
   - Engine **2020.3.11f1 (LTS)**
 
@@ -59,10 +68,9 @@ choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y
 - Unreal Engine _Don't install studio_
 
 **JetBrains:**
-- Jetbrains Toolbox
-- Resharper Ultimate
-- GoLand
-- Rider
-- IntelliJ
-- CLion _Why Not?_
-- PyCharm _Also Why Not?_
+- Jetbrains Toolbox - https://www.jetbrains.com/toolbox-app/
+  - Resharper Ultimate
+  - GoLand
+  - Rider
+  - IntelliJ
+  - PyCharm
