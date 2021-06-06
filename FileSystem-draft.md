@@ -14,3 +14,15 @@ Purpose: Organize the file system to satisfy the following requirements
   - Go file structure is set up with best practices
   - Easy to know where to go to get what is being looked for
   - Easily adaptable but the base should serve for most situations
+  - folders and filenames should ideally be lowercase, works better with my lazy desire to not use capital letters
+
+Workspace based off of GO
+- c:\development\bin
+- c:\development\pkg
+- c:\development\src
+  - github.com
+  - journeyman32
+      - repo_folder
+      - _other repo/project folder_
+  - _other github.com usernames_
+- c:\development\zips
