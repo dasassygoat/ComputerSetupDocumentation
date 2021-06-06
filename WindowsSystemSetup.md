@@ -57,7 +57,6 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - Remote WSL
   - Remote Development
   - Extensions Zip: _user\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions_
-
 - Matlab - DL
 - MS Office 
 - Wolfram Mathamatica 10 - DL
