@@ -15,35 +15,28 @@
   
 **Windows Utilities:**
 - Powershell 5+
-- Chocolatey
-- Brother Printer
+- Chocolatey https://chocolatey.org/install
+- Brother Printer - DL File
 
     
 **Chocolatey Installs:**
-- Node
-- WinDirStat
-- Putty
-- VNC Viewer
-- Python 3
-- git
-- dnspy
-- Quicklook
+- Node _choco install nodejs_
+- WinDirStat _choco install windirstat_
+- VNC Viewer _choco install vnc-viewer_
+- git _choco install git_
 - Postman _choco install postman_
 - gpg4win _choco install gpg4win_
 - Golang _choco install golang_
 - Arduino _choco install arduino_
-- **Check for potential future install integration**
- - Rust
 
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
-- Termius
-- balanaEtcher
-- sdCard Formatter
-- Anaconda
-- Arduino
-- Docker
-- Gitkraken
+- Termius - https://www.termius.com/windows
+- balanaEtcher - DL File
+- sdCard Formatter - DL File
+- Anaconda - https://www.anaconda.com/products/individual
+- Docker - https://www.docker.com/get-started
+- Gitkraken - https://www.gitkraken.com/
 - Visual Studio 2019 
 - Visual Studio Code (Self updates)
   - c#
@@ -52,17 +45,13 @@
   - Go
   - Material Icon Theme
   - IOT Workbench
-- Azure Storage Explorer
-- Azure Batch Explorer
-- DigiCertUtil.exe
 - Matlab
-- Oracle Java JDK
 - MS Office (Self updates)
 - Wolfram Mathamatica 10
 - Logos - https://www.logos.com/get-started
 - Blender **2.79**
-- Unity Hub 
-  - Engine **2019.1.11f1**
+- Unity Hub - https://store.unity.com/download?ref=personal
+  - Engine **2020.3.11f1 (LTS)**
 
 **Unreal:**
 - Unreal Engine _Don't install studio_
