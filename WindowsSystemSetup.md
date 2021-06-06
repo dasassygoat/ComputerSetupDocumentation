@@ -1,19 +1,23 @@
 # Setup of Windows System:
 
 **Windows Features:**
+- Hyper-V
+- Microsoft Print to PDF
+- Virtual Machine Platform
+- Windows Hypervisor Platform
 - Linux Subsystem for Windows _reinstalling_
 - Edge
 
 **Windows Store:**
-- Ubuntu
-- Kali
+- Ubuntu 20.04 LTS
+- PowerShell Preview
+- Windows Terminal
   
 **Windows Utilities:**
 - Powershell 5+
 - Chocolatey
-- Firefox
-- Grammerly
-- 1Password
+- Brother Printer
+
     
 **Chocolatey Installs:**
 - Node
@@ -33,8 +37,13 @@
 
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
-- GitHub Desktop _Unsure of value_
-- Nord is preferred theme
+- Termius
+- balanaEtcher
+- sdCard Formatter
+- Anaconda
+- Arduino
+- Docker
+- Gitkraken
 - Visual Studio 2019 
 - Visual Studio Code (Self updates)
   - c#
@@ -43,12 +52,11 @@
   - Go
   - Material Icon Theme
   - IOT Workbench
-- Devart Code Compare _Probably will switch to different license in future_
 - Azure Storage Explorer
 - Azure Batch Explorer
 - DigiCertUtil.exe
+- Matlab
 - Oracle Java JDK
-- Kindle
 - MS Office (Self updates)
 - Wolfram Mathamatica 10
 - Logos - https://www.logos.com/get-started
@@ -58,9 +66,9 @@
 
 **Unreal:**
 - Unreal Engine _Don't install studio_
-- Unreal Tournament
 
 **JetBrains:**
+- Jetbrains Toolbox
 - Resharper Ultimate
 - GoLand
 - Rider
