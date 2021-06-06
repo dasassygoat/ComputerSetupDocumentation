@@ -20,14 +20,16 @@
 
     
 **Chocolatey Installs:**
-- Node _choco install nodejs_
-- WinDirStat _choco install windirstat_
-- VNC Viewer _choco install vnc-viewer_
-- git _choco install git_
-- Postman _choco install postman_
-- gpg4win _choco install gpg4win_
-- Golang _choco install golang_
-- Arduino _choco install arduino_
+- Node _choco install nodejs -y_
+- WinDirStat _choco install windirstat -y_
+- VNC Viewer _choco install vnc-viewer -y_
+- git _choco install git -y_
+- Postman _choco install postman -y_
+- gpg4win _choco install gpg4win -y_
+- Golang _choco install golang -y_
+- Arduino _choco install arduino -y_
+
+choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y
 
   
 **Applications:** _(Some can be installed through Chocolatey but prefer to not)_
