@@ -16,7 +16,7 @@ Purpose: Organize the file system to satisfy the following requirements
   - Easily adaptable but the base should serve for most situations
   - folders and filenames should ideally be lowercase, works better with my lazy desire to not use capital letters
 
-Workspace based off of GO
+Workspace based off of GO - Using D drive instead
 - c:\development\bin
 - c:\development\pkg
 - c:\development\src
