@@ -74,3 +74,4 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - Rider
   - IntelliJ
   - PyCharm
+  - CLion
