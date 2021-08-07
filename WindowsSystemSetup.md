@@ -39,6 +39,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Anaconda - https://www.anaconda.com/products/individual
 - Docker - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
+- Oracle Virtual Box
 - Visual Studio 2019 - https://visualstudio.microsoft.com/
 - Visual Studio Code
   - Arduino
@@ -62,7 +63,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Wolfram Mathamatica 10 - DL
 - Logos - https://www.logos.com/get-started
 - Unity Hub - https://store.unity.com/download?ref=personal
-  - Engine **2020.3.11f1 (LTS)**
+  - Engine **2020.3.13f1 (LTS)**
 
 **Unreal:**
 - Unreal Engine _Don't install studio_
