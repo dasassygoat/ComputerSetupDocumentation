@@ -26,3 +26,4 @@ Workspace based off of GO - Using D drive instead
       - _other repo/project folder_
   - _other github.com usernames_
 - c:\development\zips
+- c:\development\lib
