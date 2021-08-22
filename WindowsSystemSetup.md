@@ -17,7 +17,11 @@
 - Powershell 5+
 - Chocolatey https://chocolatey.org/install
 - Brother Printer - DL File
+- CyberPower Power Panel Personal
+- Linode CLI https://www.linode.com/docs/guides/linode-cli/
 
+**WSL Installed Apps**
+- Pico3
     
 **Chocolatey Installs:**
 - Node _choco install nodejs -y_
@@ -28,6 +32,8 @@
 - gpg4win _choco install gpg4win -y_
 - Golang _choco install golang -y_
 - Arduino _choco install arduino -y_
+- Amazon Corretto 11
+- Amazon Corretto 16
 
 _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 
@@ -39,7 +45,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Anaconda - https://www.anaconda.com/products/individual
 - Docker - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
-- Oracle Virtual Box
+- Oracle Virtual Box _Should ensure that the integration tools are also installed for use_
 - Visual Studio 2019 - https://visualstudio.microsoft.com/
 - Visual Studio Code
   - Arduino
