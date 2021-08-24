@@ -1,8 +1,7 @@
 # Windows File Directory - _Work in Progress_
 
-Background: A clean and well organized file structure is desired. I create my own projects, some of the projects should be stored while others
-probably could be deleted with no harm. I download source code and some of the source code I only use to look at the code and other times it is
-used for modifications. 
+Background: A clean and well organized file structure is the visual representation of a clean soul. I create my own projects, some of the projects should be kept longterm while others could/should probably be deleted. A prime example is video and book source code which I may never actually open, or look at the code one. Other situation is the times it is
+actually used for modifications. 
 
 Purpose: Organize the file system to satisfy the following requirements
   - All code should be available on the local machine as well as backed up
