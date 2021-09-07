@@ -47,6 +47,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Gitkraken - https://www.gitkraken.com/
 - Oracle Virtual Box _Should ensure that the integration tools are also installed for use_
 - Visual Studio 2019 - https://visualstudio.microsoft.com/
+- Visual Studio 2022 RC 3
 - Visual Studio Code
   - Arduino
   - Azure IoT Tools
