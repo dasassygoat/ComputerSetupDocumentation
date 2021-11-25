@@ -1,4 +1,4 @@
-# Setup of Windows System:
+# Setup of Windows 11 System:
 
 **Windows Features:**
 - Hyper-V
@@ -10,11 +10,12 @@
 
 **Windows Store:**
 - Ubuntu 20.04 LTS
-- PowerShell Preview
+- PowerShell 7
 - Windows Terminal
   
 **Windows Utilities:**
 - Powershell 5+
+- Powertools _(Preview)_
 - Chocolatey https://chocolatey.org/install
 - Brother Printer - DL File
 - CyberPower Power Panel Personal
@@ -38,7 +39,7 @@
 _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 
   
-**Applications:** _(Some can be installed through Chocolatey but prefer to not)_
+**Applications:** _(Some can be installed through Chocolatey but might prefer not to)_
 - Termius - https://www.termius.com/windows
 - balanaEtcher - DL File
 - sdCard Formatter - DL File
@@ -47,9 +48,14 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Gitkraken - https://www.gitkraken.com/
 - Oracle Virtual Box _Should ensure that the integration tools are also installed for use_
 - Visual Studio 2019 - https://visualstudio.microsoft.com/
-- Visual Studio 2022 RC 3
-- Visual Studio Code
+- Visual Studio 202
+- Visual Studio Code-   
   - Arduino
+  - Advanced-new-file
+  - Angular Files
+  - Angulare Language Service
+  - Gitlens
+  - Microsoft Edge Tools for VS Code
   - Azure IoT Tools
   - c#
   - Docker
@@ -64,6 +70,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - Remote - SSH:Editing Configuration Files
   - Remote WSL
   - Remote Development
+  - Visual Studio IntelliCode
   - Extensions Zip: _user\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions_
 - Matlab - DL
 - MS Office 
@@ -83,3 +90,5 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - IntelliJ
   - PyCharm
   - CLion
+  - Dataspell
+  - Projector
