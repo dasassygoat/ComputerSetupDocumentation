@@ -9,7 +9,7 @@
 - Edge
 
 **Windows Store:**
-- Ubuntu 20.04 LTS
+- Ubuntu 21.04
 - PowerShell 7
 - Windows Terminal
   
@@ -48,7 +48,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Gitkraken - https://www.gitkraken.com/
 - Oracle Virtual Box _Should ensure that the integration tools are also installed for use_
 - Visual Studio 2019 - https://visualstudio.microsoft.com/
-- Visual Studio 202
+- Visual Studio 2022
 - Visual Studio Code-   
   - Arduino
   - Advanced-new-file
