@@ -46,10 +46,10 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Anaconda - https://www.anaconda.com/products/individual
 - Docker - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
-- Oracle Virtual Box _Should ensure that the integration tools are also installed for use_
-- Visual Studio 2019 - https://visualstudio.microsoft.com/
-- Visual Studio 2022
-- Visual Studio Code-   
+- Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ 
+- Visual Studio 2022 - https://visualstudio.microsoft.com/
+- Visual Studio Code- 
+  - GitLab Copilot _requires paid subscription_  
   - Arduino
   - Advanced-new-file
   - Angular Files
@@ -78,6 +78,8 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Logos - https://www.logos.com/get-started
 - Unity Hub - https://store.unity.com/download?ref=personal
   - Engine **2020.3.13f1 (LTS)**
+- Minecraft
+- MongoDb
 
 **Unreal:**
 - Unreal Engine _Don't install studio_
