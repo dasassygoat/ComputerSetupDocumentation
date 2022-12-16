@@ -12,7 +12,14 @@
 ## Mac Installs:
 * Dash is the best. - https://kapeli.com/dash
 * Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
-* Seems like most popular Mac Terminal Emulator - https://iterm2.com/
+* Seems like a popular Mac Terminal Emulator - https://iterm2.com/
+* Currently favorite terminal for Mac only - https://www.warp.dev
+* Currently useing to create some keyboard shortcuts. - https://www.hammerspoon.org/
+* Obsidian
+* GitKraken
+* OneDrive
+* Mobile Application Generator
+* Trello
 
 ## Languages:
 * Asp.net Core - https://www.microsoft.com/net
