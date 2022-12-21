@@ -2,7 +2,6 @@
 
 ## Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
-* Red Hat - https://www.redhat.com/en/developers
 
 ## Linux Installs:
 * Oh My Zsh - http://ohmyz.sh/
@@ -10,15 +9,15 @@
 * Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
 
 ## Mac Installs:
-* Dash is the best. - https://kapeli.com/dash
+* ~Dash is the best. - https://kapeli.com/dash~
 * Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
-* Seems like a popular Mac Terminal Emulator - https://iterm2.com/
-* Currently favorite terminal for Mac only - https://www.warp.dev
-* Currently useing to create some keyboard shortcuts. - https://www.hammerspoon.org/
+* A popular Mac Terminal Emulator - https://iterm2.com/
+* Current terminal for Mac only - https://www.warp.dev
+* Used to create some keyboard shortcuts. - https://www.hammerspoon.org/
 * Obsidian
 * GitKraken
 * OneDrive
-* Mobile Application Generator
+* Mobile Application Generator - bought this
 * Trello
 
 ## Languages:
@@ -29,30 +28,25 @@
 
 ## Programming:
 * Visual Studio Community - https://www.visualstudio.com/
+* Visual Studio Mac - https://visualstudio.microsoft.com/vs/mac/
 * Visual Studio Code - https://code.visualstudio.com/
-* Sublime Text - https://www.sublimetext.com/
-* JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu
-* GitHub Desktop - https://desktop.github.com/
-
-## Nuget:
-* nUnit
-* Moq
-* Marten
-* Autofac
+* ~Sublime Text - https://www.sublimetext.com/~
+* ~JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu~
+* ~GitHub Desktop - https://desktop.github.com/~
 
 ## Tools:
 * Node - Install first since the others use it to install.
-* Mock up screen ui - https://balsamiq.com/
+* ~Mock up screen ui - https://balsamiq.com/~
 
 ## Misc:
-* Google Chrome
-* Firefox Developer Edition
-* DropBox
-* Flux
+* ~Google Chrome~
+* ~Firefox Developer Edition~
+* ~DropBox~
+* ~Flux~
 * AmpliTube4
 
 
 ## Fun Stuff:
 * VirtualBox - https://www.virtualbox.org/wiki/Downloads
-* VmWare Player 
+* VmWare Player - https://www.vmware.com/products/workstation-player.html
 
