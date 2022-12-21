@@ -19,6 +19,7 @@
 * OneDrive
 * Mobile Application Generator - bought this
 * Trello
+* Logos Bible Software
 
 ## Languages:
 * Asp.net Core - https://www.microsoft.com/net
