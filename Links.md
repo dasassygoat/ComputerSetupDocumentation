@@ -9,11 +9,13 @@
 * http://www.mamp.info/en/index.html - Best LAMP Stack tool for Mac that I have used. The pro version is worth the money
 to support it.
 * http://www.ubuntu.com/desktop/developers - I really like the ease of Ubuntu
+* https://garudalinux.org/ - Just started to try it but it seems pretty cool so far
 * https://www.postgresql.org/ - Postgresql
 * https://www.microsoft.com/en-us/sql-server/sql-server-downloads - Microsoft SQL Server for Win. and Linux
 
 ## Containers
-* https://kubernetes.io/ - Kubernetes _I admit I havent gotten around to using it yet_
+* https://kubernetes.io/ - Kubernetes
+* https://www.docker.com/ - Docker
 
 ## Git:
 
