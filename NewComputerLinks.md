@@ -2,6 +2,7 @@
 
 ## Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
+* Garuda - https://garudalinux.org/
 
 ## Linux Installs:
 * Oh My Zsh - http://ohmyz.sh/
@@ -10,6 +11,7 @@
 
 ## Mac Installs:
 * ~Dash is the best. - https://kapeli.com/dash~
+* Homebrew - https://brew.sh/
 * Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
 * A popular Mac Terminal Emulator - https://iterm2.com/
 * Current terminal for Mac only - https://www.warp.dev
