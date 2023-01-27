@@ -40,13 +40,13 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 
   
 **Applications:** _(Some can be installed through Chocolatey but might prefer not to)_
-- Termius - https://www.termius.com/windows
+- ~~Termius - https://www.termius.com/windows~~
 - balanaEtcher - DL File
 - sdCard Formatter - DL File
 - Anaconda - https://www.anaconda.com/products/individual
 - Docker - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
-- Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ 
+- ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ ~~
 - Visual Studio 2022 - https://visualstudio.microsoft.com/
 - Visual Studio Code- 
   - GitLab Copilot _requires paid subscription_  
@@ -92,5 +92,3 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - IntelliJ
   - PyCharm
   - CLion
-  - Dataspell
-  - Projector
