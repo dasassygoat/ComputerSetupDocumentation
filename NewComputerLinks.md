@@ -34,7 +34,7 @@
 * Visual Studio Mac - https://visualstudio.microsoft.com/vs/mac/
 * Visual Studio Code - https://code.visualstudio.com/
 * ~Sublime Text - https://www.sublimetext.com/~
-* ~JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu~
+* JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu
 * ~GitHub Desktop - https://desktop.github.com/~
 
 ## Tools:
@@ -47,6 +47,7 @@
 * ~DropBox~
 * ~Flux~
 * AmpliTube4
+* 1Password
 
 
 ## Fun Stuff:
