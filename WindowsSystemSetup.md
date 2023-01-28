@@ -20,6 +20,7 @@
 - Brother Printer - DL File
 - CyberPower Power Panel Personal
 - Linode CLI https://www.linode.com/docs/guides/linode-cli/
+- Neofetch https://www.makeuseof.com/how-to-install-and-use-neofetch-on-windows/
 
 **WSL Installed Apps**
 - Pico3
