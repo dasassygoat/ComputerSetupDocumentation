@@ -9,6 +9,9 @@
 * Terminator - https://gnometerminator.blogspot.com/p/introduction.html
 * Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
 
+## Pi Install
+* GoLang - ```wget https://dl.google.com/go/go1.19.5.linux-armv6l.tar.gz -O go.tar.gz```
+
 ## Mac Installs:
 * ~Dash is the best. - https://kapeli.com/dash~
 * Homebrew - https://brew.sh/
