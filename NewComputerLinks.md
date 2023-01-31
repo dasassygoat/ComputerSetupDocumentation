@@ -18,6 +18,7 @@
  </pre>
 
 * Neovim - https://snapcraft.io/install/nvim/raspbian
+*  :Mason
 * Rust - ``` curl https://sh.rustup.rs -sSf | sh ```
 ## Mac Installs:
 * ~Dash is the best. - https://kapeli.com/dash~
