@@ -17,6 +17,8 @@
  sudo tar -C /usr/local -xzf go.tar.gz 
  </pre>
 
+* Neovim - https://snapcraft.io/install/nvim/raspbian
+
 ## Mac Installs:
 * ~Dash is the best. - https://kapeli.com/dash~
 * Homebrew - https://brew.sh/
