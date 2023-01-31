@@ -10,7 +10,12 @@
 * Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
 
 ## Pi Install
-* GoLang - ```wget https://dl.google.com/go/go1.19.5.linux-armv6l.tar.gz -O go.tar.gz```
+* GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
+ <pre>
+
+ wget https://dl.google.com/go/go1.19.5.linux-armv6l.tar.gz -O go.tar.gz
+ sudo tar -C /usr/local -xzf go.tar.gz 
+ </pre>
 
 ## Mac Installs:
 * ~Dash is the best. - https://kapeli.com/dash~
