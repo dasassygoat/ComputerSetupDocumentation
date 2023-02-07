@@ -19,9 +19,9 @@ Workspace based off of GO - Using D drive instead
 - c:\development\pkg
 - c:\development\src
   - github.com
-  - journeyman32
-      - repo_folder
-      - _other repo/project folder_
-  - _other github.com usernames_
+    - journeyman32
+        - repo_folder
+        - _other repo/project folder_
+    - _other github.com usernames_
 - c:\development\zips
 - c:\development\lib
