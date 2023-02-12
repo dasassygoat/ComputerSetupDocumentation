@@ -17,7 +17,7 @@ sudo apt install nodejs
 node -v
 </pre>
 
-Nodesource documentation: 
+Nodesource documentation: https://github.com/nodesource/distributions/blob/master/README.md
 
 
 ## Pi Install
