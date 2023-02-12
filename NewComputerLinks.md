@@ -1,14 +1,59 @@
 # New Computer Setup for Mac or Linux:
 
-## Operating Systems:
+## Linux Installs:
+### Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
 * Garuda - https://garudalinux.org/
 
-## Linux Installs:
+### Applications
 * Oh My Zsh - http://ohmyz.sh/
 * Terminator - https://gnometerminator.blogspot.com/p/introduction.html
-* Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
-* Node -
+* ~Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org~
+ 
+#### Pi Specific Install
+* GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
+ <pre>
+ wget https://dl.google.com/go/go1.19.5.linux-armv6l.tar.gz -O go.tar.gz
+ sudo tar -C /usr/local -xzf go.tar.gz 
+ </pre>
+* Neovim - https://snapcraft.io/install/nvim/raspbian
+
+## Mac Installs:
+### Applications:
+* ~Dash is the best. - https://kapeli.com/dash~
+* Homebrew - https://brew.sh/
+* Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
+* A popular Mac Terminal Emulator - https://iterm2.com/
+* Current terminal for Mac only - https://www.warp.dev
+* Used to create some keyboard shortcuts. - https://www.hammerspoon.org/
+* Mobile Application Generator - bought this
+
+## Applications
+ 
+* Obsidian
+* GitKraken
+* OneDrive
+
+* Trello
+* Logos Bible Software
+
+## Languages:
+* Asp.net Core - https://www.microsoft.com/net
+* Go - https://golang.org/
+* Rust - https://www.rust-lang.org/en-US/
+<pre>``` curl https://sh.rustup.rs -sSf | sh ```</pre>
+* Python - https://www.python.org/
+
+## Programming IDE:
+* Visual Studio Community - https://www.visualstudio.com/
+* Visual Studio Mac - https://visualstudio.microsoft.com/vs/mac/
+* Visual Studio Code - https://code.visualstudio.com/
+* JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu
+
+
+## Tools:
+* Node (https://github.com/nodesource/distributions/blob/master/README.md) - Install first since the other tools use it.
+ 
 <pre>
 cd ~
 curl -sL https://deb.nodesource.com/setup_18.x -o nodesource_setup.sh
@@ -17,62 +62,19 @@ sudo apt install nodejs
 node -v
 </pre>
 
-Nodesource documentation: https://github.com/nodesource/distributions/blob/master/README.md
-
-
-## Pi Install
-* GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
- <pre>
-
- wget https://dl.google.com/go/go1.19.5.linux-armv6l.tar.gz -O go.tar.gz
- sudo tar -C /usr/local -xzf go.tar.gz 
- </pre>
-
-* Neovim - https://snapcraft.io/install/nvim/raspbian
-*  :Mason
-* Rust - ``` curl https://sh.rustup.rs -sSf | sh ```
-## Mac Installs:
-* ~Dash is the best. - https://kapeli.com/dash~
-* Homebrew - https://brew.sh/
-* Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
-* A popular Mac Terminal Emulator - https://iterm2.com/
-* Current terminal for Mac only - https://www.warp.dev
-* Used to create some keyboard shortcuts. - https://www.hammerspoon.org/
-* Obsidian
-* GitKraken
-* OneDrive
-* Mobile Application Generator - bought this
-* Trello
-* Logos Bible Software
-
-## Languages:
-* Asp.net Core - https://www.microsoft.com/net
-* Go - https://golang.org/
-* Rust - https://www.rust-lang.org/en-US/
-* Python - https://www.python.org/
-
-## Programming:
-* Visual Studio Community - https://www.visualstudio.com/
-* Visual Studio Mac - https://visualstudio.microsoft.com/vs/mac/
-* Visual Studio Code - https://code.visualstudio.com/
-* ~Sublime Text - https://www.sublimetext.com/~
-* JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu
-* ~GitHub Desktop - https://desktop.github.com/~
-
-## Tools:
-* Node - Install first since the others use it to install.
-* ~Mock up screen ui - https://balsamiq.com/~
-
 ## Misc:
-* ~Google Chrome~
-* ~Firefox Developer Edition~
-* ~DropBox~
-* ~Flux~
-* AmpliTube4
 * 1Password
-
 
 ## Fun Stuff:
 * VirtualBox - https://www.virtualbox.org/wiki/Downloads
 * VmWare Player - https://www.vmware.com/products/workstation-player.html
+* AmpliTube4
 
+## Deprecated:
+* ~Google Chrome~
+* ~Firefox Developer Edition~
+* ~DropBox~
+* ~Flux~
+* ~Mock up screen ui - https://balsamiq.com/~
+* ~GitHub Desktop - https://desktop.github.com/~
+* * ~Sublime Text - https://www.sublimetext.com/~
