@@ -8,6 +8,17 @@
 * Oh My Zsh - http://ohmyz.sh/
 * Terminator - https://gnometerminator.blogspot.com/p/introduction.html
 * Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
+* Node -
+<pre>
+cd ~
+curl -sL https://deb.nodesource.com/setup_18.x -o nodesource_setup.sh
+sudo bash nodesource_setup.sh
+sudo apt install nodejs
+node -v
+</pre>
+
+Nodesource documentation: 
+
 
 ## Pi Install
 * GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
