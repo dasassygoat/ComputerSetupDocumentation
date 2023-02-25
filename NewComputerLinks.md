@@ -33,7 +33,7 @@
 * Obsidian
 * GitKraken
 * OneDrive
-
+* Firefox
 * Trello
 * Logos Bible Software
 
@@ -72,7 +72,7 @@ node -v
 
 ## Deprecated:
 * ~Google Chrome~
-* ~Firefox Developer Edition~
+
 * ~DropBox~
 * ~Flux~
 * ~Mock up screen ui - https://balsamiq.com/~
