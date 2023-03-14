@@ -4,15 +4,16 @@
 ### Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
 * Garuda - https://garudalinux.org/
+* PopOS
 
 ### Applications
 * Oh My Zsh - http://ohmyz.sh/
-* Terminator - https://gnometerminator.blogspot.com/p/introduction.html
+* ~Terminator - https://gnometerminator.blogspot.com/p/introduction.html~
 * ~Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org~
  
 #### Pi Specific Install
 * GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
- <pre>
+ <pre>~
  wget https://dl.google.com/go/go1.19.5.linux-armv6l.tar.gz -O go.tar.gz
  sudo tar -C /usr/local -xzf go.tar.gz 
  </pre>
@@ -71,7 +72,6 @@ node -v
 
 ## Deprecated:
 * ~Google Chrome~
-
 * ~DropBox~
 * ~Flux~
 * ~Mock up screen ui - https://balsamiq.com/~
