@@ -16,6 +16,7 @@
 **Windows Utilities:**
 - Powershell 5+
 - Powertools _(Preview)_
+- WinGet
 - Chocolatey https://chocolatey.org/install
 - Brother Printer - DL File
 - CyberPower Power Panel Personal
