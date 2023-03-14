@@ -45,6 +45,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - balanaEtcher - DL File
 - sdCard Formatter - DL File
 - Anaconda - https://www.anaconda.com/products/individual
+- VmWare Workstation 
 - Docker - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
 - ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ ~~
@@ -81,6 +82,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - Engine **2020.3.13f1 (LTS)**
 - Minecraft
 - MongoDb
+- Docker
 
 **Unreal:**
 - Unreal Engine _Don't install studio_
