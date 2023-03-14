@@ -35,6 +35,7 @@
 * OneDrive
 * Firefox
 * Trello
+* Docker
 * Logos Bible Software
 
 ## Languages:
@@ -66,9 +67,7 @@ node -v
 * 1Password
 
 ## Fun Stuff:
-* VirtualBox - https://www.virtualbox.org/wiki/Downloads
-* VmWare Player - https://www.vmware.com/products/workstation-player.html
-* AmpliTube4
+* 
 
 ## Deprecated:
 * ~Google Chrome~
