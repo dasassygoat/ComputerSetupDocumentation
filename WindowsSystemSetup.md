@@ -37,6 +37,7 @@
 - Arduino _choco install arduino -y_
 - Amazon Corretto 11
 - Amazon Corretto 16
+- Zeal _choco install zeal -y_
 
 _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 
@@ -52,8 +53,9 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ ~~
 - Visual Studio 2022 - https://visualstudio.microsoft.com/
 - Visual Studio Code- 
-  - GitLab Copilot _requires paid subscription_  
+  - ~~GitLab Copilot _requires paid subscription_ ~~
   - Arduino
+  - PlatformIO
   - Advanced-new-file
   - Angular Files
   - Angulare Language Service
