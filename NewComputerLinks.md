@@ -4,12 +4,13 @@
 ### Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
 * Garuda - https://garudalinux.org/
-* PopOS
+* PopOS - https://pop.system76.com/
+* Endeavour - https://endeavouros.com/
 
 ### Applications
 * Oh My Zsh - http://ohmyz.sh/
 * ~Terminator - https://gnometerminator.blogspot.com/p/introduction.html~
-* Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
+* Zeal is the Dash for Linux. -  https://zealdocs.org
  
 #### Pi Specific Install
 * GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
@@ -66,6 +67,8 @@ node -v
 
 ## Misc:
 * 1Password
+* Linode CLI
+* GitHub CLI
 
 ## Fun Stuff:
 * 
