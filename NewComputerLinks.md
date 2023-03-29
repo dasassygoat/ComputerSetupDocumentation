@@ -9,7 +9,7 @@
 ### Applications
 * Oh My Zsh - http://ohmyz.sh/
 * ~Terminator - https://gnometerminator.blogspot.com/p/introduction.html~
-* ~Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org~
+* Zeal is the Dash for Linux, havent tried it yet. -  https://zealdocs.org
  
 #### Pi Specific Install
 * GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
@@ -21,7 +21,7 @@
 
 ## Mac Installs:
 ### Applications:
-* ~Dash is the best. - https://kapeli.com/dash~
+* Dash is the best. - https://kapeli.com/dash
 * Homebrew - https://brew.sh/
 * Keeps your Mac from going to sleep, its Caffeine - http://lightheadsw.com/caffeine/
 * A popular Mac Terminal Emulator - https://iterm2.com/
