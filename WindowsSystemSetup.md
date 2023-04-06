@@ -21,10 +21,12 @@
 - Brother Printer - DL File
 - CyberPower Power Panel Personal
 - Linode CLI https://www.linode.com/docs/guides/linode-cli/
+- Github CLI
+- One Password CLI
 - Neofetch https://www.makeuseof.com/how-to-install-and-use-neofetch-on-windows/
 
 **WSL Installed Apps**
-- Pico3
+- Docker - https://www.docker.com/get-started
     
 **Chocolatey Installs:**
 - Node _choco install nodejs -y_
@@ -35,7 +37,7 @@
 - gpg4win _choco install gpg4win -y_
 - Golang _choco install golang -y_
 - Arduino _choco install arduino -y_
-- Amazon Corretto 11
+- ~~Amazon Corretto 11~~
 - Amazon Corretto 16
 - Zeal _choco install zeal -y_
 
@@ -44,11 +46,12 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   
 **Applications:** _(Some can be installed through Chocolatey but might prefer not to)_
 - ~~Termius - https://www.termius.com/windows~~
+- FireFox
 - balanaEtcher - DL File
 - sdCard Formatter - DL File
-- Anaconda - https://www.anaconda.com/products/individual
+- Anaconda - https://www.anaconda.com/products/individual (Will probably set this up in a virtual env. in the future)
 - VmWare Workstation 
-- Docker - https://www.docker.com/get-started
+- Docker Compose - https://www.docker.com/get-started
 - Gitkraken - https://www.gitkraken.com/
 - ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ ~~
 - Visual Studio 2022 - https://visualstudio.microsoft.com/
@@ -56,6 +59,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - ~~GitLab Copilot _requires paid subscription_ ~~
   - Arduino
   - PlatformIO
+  - DrawIO
   - Advanced-new-file
   - Angular Files
   - Angulare Language Service
@@ -66,7 +70,6 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - Docker
   - File Utils
   - Go
-  - GitKraken Boards
   - Material Icon Theme
   - Jupyter
   - Python
@@ -86,6 +89,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Minecraft
 - MongoDb
 - Docker
+- OnePassword
 
 **Unreal:**
 - Unreal Engine _Don't install studio_
