@@ -71,7 +71,7 @@ node -v
 * GitHub CLI
 
 ## Fun Stuff:
-* 
+* https://www.jetbrains.com/lp/mono/
 
 ## Deprecated:
 * ~Google Chrome~
