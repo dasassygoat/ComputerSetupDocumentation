@@ -55,8 +55,9 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - Gitkraken - https://www.gitkraken.com/
 - ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_ ~~
 - Visual Studio 2022 - https://visualstudio.microsoft.com/
+- NVIM with plugins
 - Visual Studio Code- 
-  - ~~GitLab Copilot _requires paid subscription_ ~~
+  - GitLab Copilot _requires paid subscription_ 
   - Arduino
   - PlatformIO
   - DrawIO
@@ -84,10 +85,10 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - MS Office 
 - Wolfram Mathamatica 10 - DL
 - Logos - https://www.logos.com/get-started
-- Unity Hub - https://store.unity.com/download?ref=personal
-  - Engine **2020.3.13f1 (LTS)**
+- ~~Unity Hub - https://store.unity.com/download?ref=personal
+  - ~~Engine **2020.3.13f1 (LTS)**
 - Minecraft
-- MongoDb
+- ~~MongoDb
 - Docker
 - OnePassword
 
