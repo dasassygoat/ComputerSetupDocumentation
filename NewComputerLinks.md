@@ -11,6 +11,7 @@
 * Oh My Zsh - http://ohmyz.sh/
 * ~Terminator - https://gnometerminator.blogspot.com/p/introduction.html~
 * Zeal is the Dash for Linux. -  https://zealdocs.org
+* Dropbox - https://www.dropbox.com/install
  
 #### Pi Specific Install
 * GoLang (https://pimylifeup.com/raspberry-pi-golang/) - 
