@@ -24,6 +24,7 @@
 - Github CLI
 - One Password CLI
 - Neofetch https://www.makeuseof.com/how-to-install-and-use-neofetch-on-windows/
+- WinDirStat
 
 **WSL Installed Apps**
 - Docker - https://www.docker.com/get-started
