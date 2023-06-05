@@ -41,6 +41,7 @@
 - ~~Amazon Corretto 11~~
 - Amazon Corretto 16
 - Zeal _choco install zeal -y_
+- NeoVim with AstroVim
 
 _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 
