@@ -57,7 +57,8 @@
 
 ## Tools:
 * Node (https://github.com/nodesource/distributions/blob/master/README.md) - Install first since the other tools use it.
- 
+* https://github.com/lukechilds/zsh-nvm
+  
 <pre>
 cd ~
 curl -sL https://deb.nodesource.com/setup_current.x -o nodesource_setup.sh
