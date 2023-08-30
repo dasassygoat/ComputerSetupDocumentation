@@ -25,6 +25,8 @@
 - One Password CLI
 - ~~Neofetch https://www.makeuseof.com/how-to-install-and-use-neofetch-on-windows/~~
 - WinDirStat
+- HashiCorp Vagrant https://developer.hashicorp.com/vagrant/downloads?ajs_aid=9201683f-8ba4-4ad0-b537-4ec6b7a0669e&product_intent=vagrant
+- Vagrant VMWare CLI https://developer.hashicorp.com/vagrant/downloads/vmware
 
 **WSL Installed Apps**
 - Docker - https://www.docker.com/get-started
