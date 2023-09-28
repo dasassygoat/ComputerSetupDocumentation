@@ -4,7 +4,7 @@
 ### Operating Systems:
 * Ubuntu - https://www.ubuntu.com/
 * Garuda - https://garudalinux.org/
-* PopOS - https://pop.system76.com/
+* PopOS - https://pop.system76.com/ - qhR IA UAWS
 * Endeavour - https://endeavouros.com/
 
 ### Applications
