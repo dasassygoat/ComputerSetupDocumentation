@@ -80,4 +80,4 @@ node -v
 * ~Flux~
 * ~Mock up screen ui - https://balsamiq.com/~
 * ~GitHub Desktop - https://desktop.github.com/~
-* * ~Sublime Text - https://www.sublimetext.com/~
+* Sublime Text - https://www.sublimetext.com/
