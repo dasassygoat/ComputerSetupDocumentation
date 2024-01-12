@@ -50,7 +50,6 @@
 
 ## Programming IDE:
 * Visual Studio Community - https://www.visualstudio.com/
-* Visual Studio Mac - https://visualstudio.microsoft.com/vs/mac/
 * Visual Studio Code - https://code.visualstudio.com/
 * JetBrains Toolbox - https://www.jetbrains.com/toolbox/app/?fromMenu
 
