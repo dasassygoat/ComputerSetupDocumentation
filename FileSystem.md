@@ -1,4 +1,4 @@
-# Windows File Directory - _Work in Progress_
+# Development File Directory - _Work in Progress_
 
 **Background**: A clean and well organized file structure is the visual representation of a clean soul. I create my own projects, some of the projects should be kept longterm while others could/should probably be deleted. A prime example is video and book source code which I may never actually open, or look at the code once. Other times the code is modified and executed.
 
@@ -14,14 +14,16 @@
   - Easily adaptable but the base should serve for most situations
   - Folders and filenames should ideally be lowercase, works better with my lazy desire to not use capital letters
 
-Workspace based off of GO - Using D drive instead
-- c:\development\bin
-- c:\development\pkg
-- c:\development\src
-  - github.com
+Workspace based off of GO - Using home folder instead
+- username/dev/bin
+- username/dev/pkg
+- username/development/src
+  - gh
     - journeyman32
         - repo_folder
         - _other repo/project folder_
     - _other github.com usernames_
-- c:\development\zips
-- c:\development\lib
+  - gl _example for GitLab_
+- username/dev/zips
+- username/dev/lib
+_
