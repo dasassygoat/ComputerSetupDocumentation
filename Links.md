@@ -25,6 +25,13 @@ to support it.
 * http://try.github.io/l - Git training
 * https://www.gitkraken.com/ - GitKraken - Pretty cool so far.
 
+## VR
+* https://developer.oculus.com/unity/
+
+## Unity
+* https://tangrams.github.io/heightmapper/#4.60067/35.745/-108.884 - Height mapper
+* https://polyhaven.com/
+
 ## Editors:
 
 * http://www.sublimetext.com/ - I think that this is one of the defacto coding editors in the field.
@@ -32,7 +39,12 @@ to support it.
 
 ## Training:
 
-* http://www.teamtreehouse.com - Great site, lots of good videos. 
+* https://training.mammothinteractive.com/courses/ - Mammoth
+* https://unitycodemonkey.teachable.com/ - UnityCode Monkey
+* https://learning.oreilly.com/home/ - LOTS of books
+* https://www.manning.com/dashboard - Bought lots of books
+* https://learn.unity.com/u/5cf60384edbc2a3b4e10d43d - Unity Training
+* https://www.packtpub.com/login?returnUrl=%2Fowned - PACKT
 * https://app.pluralsight.com/library/ - Has lots of videos, they are increasing the content weekly.
 * https://borntolearn.mslearn.net/knowitproveit/p/home - Microsoft Born To Learn
 * http://udemy.com - The courses can be hit or miss, however the good ones are really very good.
@@ -56,6 +68,9 @@ to support it.
 * http://csharp.2000things.com/index/
 * http://github.com/FaithLife/FaithLifeUtility - Real helpful ultity library.
 
+## Rust
+* http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/rust-by-example/index.html
+
 ## JavaScript / CSS Libraries:
 
 * http://www.typescriptlang.org/Tutorial
@@ -72,5 +87,8 @@ to support it.
 
 * https://handmadehero.org/ - Handmade Hero Game development from scratch.
 * https://swapi.co/ - Star Wars API
-* https://aws.amazon.com/cloud9/?origin=c9io - Cloud9
 * https://github.com/sharkdp/hexyl - Hex editor
+* https://dasassygoat.codecks.io/
+
+## Old Links
+* https://aws.amazon.com/cloud9/?origin=c9io - Cloud9
