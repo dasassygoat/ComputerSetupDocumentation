@@ -23,6 +23,7 @@
 - Linode CLI https://www.linode.com/docs/guides/linode-cli/
 - Github CLI
 - One Password CLI
+- 
 - ~~Neofetch https://www.makeuseof.com/how-to-install-and-use-neofetch-on-windows/~~
 - WinDirStat
 - ~~HashiCorp Vagrant https://developer.hashicorp.com/vagrant/downloads?ajs_aid=9201683f-8ba4-4ad0-b537-4ec6b7a0669e&product_intent=vagrant~~
@@ -39,6 +40,7 @@
 - WinDirStat _choco install windirstat -y_
 - VNC Viewer _choco install vnc-viewer -y_
 - git _choco install git -y_
+- git lfs
 - ~~Postman _choco install postman -y_~~
 - gpg4win _choco install gpg4win -y_
 - ~~Golang _choco install golang -y_
@@ -53,6 +55,12 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 **Applications:**
 
 - FireFox
+- Virtual Desktop Streamer
+- Plastic SMC
+- Meta Quest Developer Hub
+- Meta Quest Link
+- BurnAware Free
+- Blender 4.1
 - Obsidian
 - Dropbox
 - VmWare Workstation
@@ -92,13 +100,17 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - ~~balanaEtcher - DL File~~
 - ~~sdCard Formatter - DL File~~
 - ~~Anaconda - https://www.anaconda.com/products/individual (Will probably set this up in a virtual env. in the future)~~
-- ~~Termius - https://www.termius.com/windows~~
+- Termius - https://www.termius.com/windows
 - ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_~~
 - ~~MS Office~~ 
 - Unity Hub - https://store.unity.com/download?ref=personal
   - ~~Engine **2020.3.13f1 (LTS)**~~
 - ~~Minecraft~~
-- ~~MongoDb~~- 
+- ~~MongoDb~~-
+- Synology Drive Client
+- Sublime Text
+- Revo Uninstaller
+- WinRAR
 
 **Unreal:**
 - ~~Unreal Engine _Don't install studio_~~
@@ -111,3 +123,4 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
   - IntelliJ
   - PyCharm
   - CLion
+  - RustRover
