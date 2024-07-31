@@ -9,7 +9,7 @@
 - Edge
 
 **Windows Store:**
-- Ubuntu 21.04
+- Ubuntu 24.04
 - PowerShell 7
 - Windows Terminal
   
@@ -25,8 +25,8 @@
 - One Password CLI
 - ~~Neofetch https://www.makeuseof.com/how-to-install-and-use-neofetch-on-windows/~~
 - WinDirStat
-- HashiCorp Vagrant https://developer.hashicorp.com/vagrant/downloads?ajs_aid=9201683f-8ba4-4ad0-b537-4ec6b7a0669e&product_intent=vagrant
-- Vagrant VMWare CLI https://developer.hashicorp.com/vagrant/downloads/vmware
+- ~~HashiCorp Vagrant https://developer.hashicorp.com/vagrant/downloads?ajs_aid=9201683f-8ba4-4ad0-b537-4ec6b7a0669e&product_intent=vagrant~~
+- ~~Vagrant VMWare CLI https://developer.hashicorp.com/vagrant/downloads/vmware~~
 
 **WSL Installed Apps**
 - Docker - https://www.docker.com/get-started
@@ -40,7 +40,7 @@
 - VNC Viewer _choco install vnc-viewer -y_
 - git _choco install git -y_
 - ~~Postman _choco install postman -y_~~
-- ~~gpg4win _choco install gpg4win -y_~~
+- gpg4win _choco install gpg4win -y_
 - ~~Golang _choco install golang -y_
 - ~~Arduino _choco install arduino -y_~~
 - ~~Amazon Corretto 11~~
@@ -95,7 +95,7 @@ _choco install nodejs windirstat vnc-viewer git gpg4win golang arduino -y_
 - ~~Termius - https://www.termius.com/windows~~
 - ~~Oracle Virtual Box _Should ensure that the integration tools are also installed for use_~~
 - ~~MS Office~~ 
-- ~~Unity Hub - https://store.unity.com/download?ref=personal~~
+- Unity Hub - https://store.unity.com/download?ref=personal
   - ~~Engine **2020.3.13f1 (LTS)**~~
 - ~~Minecraft~~
 - ~~MongoDb~~- 
