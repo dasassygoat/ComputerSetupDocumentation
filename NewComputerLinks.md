@@ -39,6 +39,7 @@
 * Firefox
 * Trello
 * Docker
+* Podman
 * Logos Bible Software
 
 ## Languages:
