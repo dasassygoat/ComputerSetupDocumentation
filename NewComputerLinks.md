@@ -34,7 +34,7 @@
 ## Applications
  
 * Obsidian
-* GitKraken
+* GitKraken - with SSH
 * OneDrive
 * Firefox
 * Trello
